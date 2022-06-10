@@ -49,7 +49,7 @@ PROXIES_URLS = (
     'https://raw.githubusercontent.com/porthole-ascend-cinnamon/assets/main/3.txt',
     'https://raw.githubusercontent.com/porthole-ascend-cinnamon/assets/main/4.txt',
 )
-IT_ARMY_CONFIG_URL = 'https://storage.googleapis.com/ddos2022/mhdos_targets_tcp_v2.txt'
+IT_ARMY_CONFIG_URL = 'https://gist.githubusercontent.com/itarmy2022/f6bed33bc0635303f058689b5f9c0ccc/raw/mhdos_targets_tcp_v2.txt'
 VERSION_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/mhddos_proxy/main/version.txt'
 
 CPU_COUNT = cpu_count()
